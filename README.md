@@ -1,4 +1,5 @@
-Case Study: Woningmarkt in Nederland
+Case Study: Woningmarkt in Nederland <br>
+
 De Context
 Dit project biedt een interactief inzicht in de dynamiek van de Nederlandse woningmarkt. Het dashboard is ontworpen om antwoord te geven op actuele ruimtelijke vraagstukken: Wat zijn de langetermijntrends in verkoopprijzen? Hoe verhoudt de huur- en koopmarkt zich tot elkaar? En in hoeverre zien we deze landelijke trends terug op provinciaal en gemeentelijk niveau, of is er sprake van sterke regionale spreiding?
 
