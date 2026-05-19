@@ -1,12 +1,12 @@
-Case Study: Woningmarkt in Nederland <br>
+<h1>Case Study: Woningmarkt in Nederland <br></h1>
 
-De Context
+<h3>De Context</h3>
 Dit project biedt een interactief inzicht in de dynamiek van de Nederlandse woningmarkt. Het dashboard is ontworpen om antwoord te geven op actuele ruimtelijke vraagstukken: Wat zijn de langetermijntrends in verkoopprijzen? Hoe verhoudt de huur- en koopmarkt zich tot elkaar? En in hoeverre zien we deze landelijke trends terug op provinciaal en gemeentelijk niveau, of is er sprake van sterke regionale spreiding?
 
-De Aanpak
+<h3>De Aanpak</h3>
 De basis van dit dashboard wordt gevormd door open data van CBS StatLine, specifiek gericht op gemiddelde verkoopprijzen, woningtypen en de actuele woningvoorraad. In de voorbereidende fase is SQL ingezet voor data-extractie, het opschonen van de ruwe data en het samenvoegen van de bestanden. Vervolgens is het datamodel in PowerBI opgebouwd. Om de data geografisch en in de tijd inzichtelijk te maken, heb ik de gemeentecodes gekoppeld aan regio-namen en diverse DAX-measures geschreven (zoals SUM, Last Year (LY) en Year-over-Year (YoY) %).
 
-De Inzichten
+<h3>De Inzichten</h3>
 Uit de analyse komen enkele duidelijke trends naar voren:
 
 Aanbod vs. Prijs: Landelijk zien we een gestage groei van de woningvoorraad. Dit staat echter in schril contrast met de explosieve stijging van de gemiddelde verkoopprijzen sinds 2017, met een absolute piek in 2021 (een YoY stijging van maar liefst 15%).
