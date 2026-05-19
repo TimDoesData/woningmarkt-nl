@@ -14,3 +14,12 @@ Aanbod vs. Prijs: Landelijk zien we een gestage groei van de woningvoorraad. Dit
 Regionale Spreiding: Hoewel de prijsstijging over de hele linie zichtbaar is, liggen de absolute bedragen ver uit elkaar. In de Randstad overstijgt de gemiddelde verkoopprijs in 2024 de grens van €500.000, terwijl provincies als Limburg, Zeeland, Groningen en Friesland nog onder de €400.000 blijven.
 
 Opvallende uitschieters: Waar de prijzen blijven stijgen, is de nieuwbouw de afgelopen twee jaar juist licht afgenomen. Een interessante afwijking is te zien op de geografische kaart bij Zuid-Holland: hoewel de provincie qua gemiddelde verkoopprijs in de landelijke middenmoot valt, behoort deze wel tot de absolute koplopers op het gebied van nieuwbouwprojecten.
+
+<br>
+<h3>Screenshots uit het dashboard</h3>
+<img width="1956" height="1173" alt="image" src="https://github.com/user-attachments/assets/6ea62984-09da-4a70-a3b1-f7238db3d29f" />
+<br>
+<img width="1950" height="1105" alt="image" src="https://github.com/user-attachments/assets/10ef3eee-7f17-4abc-8dc4-27ebe107d8e4" />
+<br>
+<img width="1940" height="1179" alt="image" src="https://github.com/user-attachments/assets/6c8f3e29-de19-4e13-b95d-d7161ff583c9" />
+
